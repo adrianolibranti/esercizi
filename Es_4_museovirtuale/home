@@ -1,0 +1,28 @@
+<DOCTYPE html>
+    <html lang=it>
+
+    <head>
+        <meta charset=utf-8 />
+        <meta name="viewport" content="width=device=width, initial-scale=1.0" />
+        <link rel="stylesheet" type="text/css" href="Style.css" />
+    </head>
+    <title>Piccolo museo virtuale</title>
+
+    <body>
+
+        <h1>Museo Virtuale</h1>
+
+        <h2>Van cocco1</h2>
+        <p>rappresenta la rappresentazione 22 della rappresentanza</p>
+        <img src="D:\ABA\Web Design\Es_4_museovirtuale\imgs\girasoli.jpeg">
+
+        <h2>Van cocco2</h2>
+        <p>rappresenta la rappresentazione 22 della rappresentanza</p>
+        <img src="D:\ABA\Web Design\Es_4_museovirtuale\imgs\camera.jpg">
+
+        <h2>Van cocco2</h2>
+        <p>rappresenta la rappresentazione 22 della rappresentanza</p>
+        <img src="D:\ABA\Web Design\Es_4_museovirtuale\imgs\stellata.jpg">
+    </body>
+
+    </html>

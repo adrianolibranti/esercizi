@@ -1,0 +1,31 @@
+header {
+    color: brown;
+    font-size: xx-large;
+    font-family: 'Times New Roman', Times, serif;
+
+}
+
+main {
+    color: blue;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: medium;
+
+}
+
+body {
+    background-color: burlywood;
+}
+
+footer {
+    background-color: rgb(79, 58, 31);
+    font-family: 'Times New Roman', Times, serif;
+    color: rgb(254, 248, 248);
+}
+
+.flex {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: flex-start;
+}
